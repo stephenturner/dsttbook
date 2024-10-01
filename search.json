@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science Team Training",
+    "section": "",
+    "text": "Preface\nThis book is reference material for the CSTE Data Science Team Training (DSTT) program provided by DSTT coaches at Signature Science LLC (Stephen D. Turner and VP Nagraj). This book contains a collection of useful code, resources, workshop material, and other useful guidance collected over several years of serving as DSTT coaches.\nCross-references: See Chapter 1 and Appendix B."
+  },
+  {
+    "objectID": "tidy.html#major-heading",
+    "href": "tidy.html#major-heading",
+    "title": "1  Tidy data",
+    "section": "\n1.1 Major heading",
+    "text": "1.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n1.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "tidy.html#major-heading.",
+    "href": "tidy.html#major-heading.",
+    "title": "1  Tidy data",
+    "section": "\n1.2 Major heading.",
+    "text": "1.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "viz.html#major-heading",
+    "href": "viz.html#major-heading",
+    "title": "2  Data visualization",
+    "section": "\n2.1 Major heading",
+    "text": "2.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n2.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "viz.html#major-heading.",
+    "href": "viz.html#major-heading.",
+    "title": "2  Data visualization",
+    "section": "\n2.2 Major heading.",
+    "text": "2.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "dashboards.html#major-heading",
+    "href": "dashboards.html#major-heading",
+    "title": "3  Dashboards",
+    "section": "\n3.1 Major heading",
+    "text": "3.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n3.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "dashboards.html#major-heading.",
+    "href": "dashboards.html#major-heading.",
+    "title": "3  Dashboards",
+    "section": "\n3.2 Major heading.",
+    "text": "3.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "versioncontrol.html#major-heading",
+    "href": "versioncontrol.html#major-heading",
+    "title": "4  Version control and collaborative development",
+    "section": "\n4.1 Major heading",
+    "text": "4.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n4.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "versioncontrol.html#major-heading.",
+    "href": "versioncontrol.html#major-heading.",
+    "title": "4  Version control and collaborative development",
+    "section": "\n4.2 Major heading.",
+    "text": "4.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "ai.html#major-heading",
+    "href": "ai.html#major-heading",
+    "title": "5  AI tools for data science code",
+    "section": "\n5.1 Major heading",
+    "text": "5.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n5.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "ai.html#major-heading.",
+    "href": "ai.html#major-heading.",
+    "title": "5  AI tools for data science code",
+    "section": "\n5.2 Major heading.",
+    "text": "5.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "gettinghelp.html#major-heading",
+    "href": "gettinghelp.html#major-heading",
+    "title": "6  Getting help",
+    "section": "\n6.1 Major heading",
+    "text": "6.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n6.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "gettinghelp.html#major-heading.",
+    "href": "gettinghelp.html#major-heading.",
+    "title": "6  Getting help",
+    "section": "\n6.2 Major heading.",
+    "text": "6.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "naming.html#major-heading",
+    "href": "naming.html#major-heading",
+    "title": "7  Naming things",
+    "section": "\n7.1 Major heading",
+    "text": "7.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n7.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "naming.html#major-heading.",
+    "href": "naming.html#major-heading.",
+    "title": "7  Naming things",
+    "section": "\n7.2 Major heading.",
+    "text": "7.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "spreadsheets.html#major-heading",
+    "href": "spreadsheets.html#major-heading",
+    "title": "8  Data organization in spreadsheets",
+    "section": "\n8.1 Major heading",
+    "text": "8.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n8.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "spreadsheets.html#major-heading.",
+    "href": "spreadsheets.html#major-heading.",
+    "title": "8  Data organization in spreadsheets",
+    "section": "\n8.2 Major heading.",
+    "text": "8.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "organizing.html#major-heading",
+    "href": "organizing.html#major-heading",
+    "title": "9  Organizing files",
+    "section": "\n9.1 Major heading",
+    "text": "9.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\n9.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "organizing.html#major-heading.",
+    "href": "organizing.html#major-heading.",
+    "title": "9  Organizing files",
+    "section": "\n9.2 Major heading.",
+    "text": "9.2 Major heading.\nMore placeholder text."
+  },
+  {
+    "objectID": "resources.html#major-heading",
+    "href": "resources.html#major-heading",
+    "title": "Appendix B — Other resources",
+    "section": "\nB.1 Major heading",
+    "text": "B.1 Major heading\nThis is some placeholder text.\n\n\n\n\n\n\nExercise 1\n\n\n\nThis is an exercise.\n\n\n\nB.1.1 Minor heading\nMore placeholder text."
+  },
+  {
+    "objectID": "resources.html#major-heading.",
+    "href": "resources.html#major-heading.",
+    "title": "Appendix B — Other resources",
+    "section": "\nB.2 Major heading.",
+    "text": "B.2 Major heading.\nMore placeholder text."
+  }
+]
