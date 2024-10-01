@@ -40,4 +40,23 @@ Exercises are called out inline using the [callout box syntax](https://quarto.or
 
 ### Building and deploying
 
-Render the book using the "Render Book" button in the RStudio build pane, or using the keyboard shortcut Cmd-Shift-B. The compiled book will be placed in the [_book](_book) directory by default. This directory is ignored by git. Use `quarto publish gh-pages` to publish.
+Render the book using the "Render Book" button in the RStudio build pane, or using the keyboard shortcut Cmd-Shift-B. The compiled book will be placed in the [_book](_book) directory by default. This directory is ignored by git. Open the `_book/index.html` to preview.
+
+To publish to GitHub Pages, follow the directions [here](https://quarto.org/docs/publishing/github-pages.html). 
+
+First, make sure all your changes are committed on the main branch, then set up an orphan `gh-pages` branch.
+
+```sh
+git checkout --orphan gh-pages
+git reset --hard # make sure all changes are committed before running this!
+git commit --allow-empty -m "Initialising gh-pages branch"
+git push origin gh-pages
+```
+
+Then go into the repository settings and make sure GitHub Pages is served from a branch (`gh-pages`) from root `/`. Make sure `_book` is in your `.gitignore`.
+
+Then, publish:
+
+```
+quarto publish gh-pages
+```
