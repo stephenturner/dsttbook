@@ -1,0 +1,45 @@
+---
+execute: 
+  cache: true
+  echo: true
+  eval: true
+  output: true
+  message: false
+  warning: false
+---
+
+# Data visualization {#sec-viz}
+
+```{r}
+#| echo: false
+options(digits=3)
+options(max.print=200)
+.ex <- 1
+
+library(ggplot2)
+theme_set(theme_bw(base_size=16) + theme(strip.background = element_blank()))
+```
+
+## Major heading
+
+This is some placeholder text. 
+
+::: {.callout-note}
+
+# Exercise `r .ex``r .ex=.ex+1`
+
+This is an exercise. 
+
+```{r, echo=FALSE}
+# R code here to print out exercise content
+```
+
+:::
+
+### Minor heading
+
+More placeholder text.
+
+## Major heading.
+
+More placeholder text.

@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+This book is reference material for the CSTE Data Science Team Training (DSTT) program provided by DSTT coaches at Signature Science LLC (Stephen D. Turner and VP Nagraj). This book contains a collection of useful code, resources, workshop material, and other useful guidance collected over several years of serving as DSTT coaches.
+
+Cross-references: See [Chapter -@sec-tidy] and [Appendix -@sec-resources].

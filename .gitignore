@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+data/
+img/
+
+# Rendered Quarto files
+/.quarto/
+_book
+*_cache
+*_files
+*.html

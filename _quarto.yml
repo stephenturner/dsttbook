@@ -1,0 +1,62 @@
+project:
+  type: book
+
+book:
+  title: "Data Science Team Training"
+  author: "Stephen D. Turner and VP Nagraj"
+  page-footer:
+    left: "&copy; 2024 Stephen D. Turner and VP Nagraj"
+    right:
+      - icon: twitter
+        href: https://x.com/strnr
+      - icon: github
+        href: https://github.com/stephenturner
+      - icon: linkedin
+        href: https://www.linkedin.com/in/turnersd/
+      - icon: house-fill
+        href: https://stephenturner.us/
+      - icon: rss
+        href: https://blog.stephenturner.us/
+  # cover-image: cover.jpg
+  # favicon: hex.png
+  downloads: [pdf, epub]
+  site-url: https://stephenturner.github.io/dsttbook
+  repo-url: https://github.com/stephenturner/dsttbook
+  repo-branch: main
+  reader-mode: true
+
+  chapters:
+    - index.qmd
+    - part: "Technical"
+      chapters:
+        - tidy.qmd
+        - viz.qmd
+        - dashboards.qmd
+        - versioncontrol.qmd
+        - ai.qmd
+    - part: "Nontechnical"
+      chapters:
+      - gettinghelp.qmd
+      - naming.qmd
+      - spreadsheets.qmd
+      - organizing.qmd
+  appendices:
+  - references.qmd
+  - resources.qmd
+
+bibliography: references.bib
+
+callout-appearance: default
+callout-icon: false
+
+format:
+  html:
+    theme: cosmo
+    code-link: true
+    author-meta: "Stephen D. Turner and VP Nagraj"
+  pdf:
+    documentclass: scrreprt
+  epub:
+    theme: default
+
+
